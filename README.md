@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @cyberotterpup! I'm a Systems Administrator with a passion for managing devices and understanding how MDM (Mobile Device Management) works.
+- 😄 Pronouns: He/Him/His
+- Currently, I’m focused on migrating around 3,700 macOS and iOS devices from JamfCloud to WorkspaceONE, diving deep into the intricacies of deployment and management.
+- 👀 I’m skilled in scripting, with a strong command of bash (macOS/Linux), PowerShell (Windows),
+- and JavaScript/Google Apps Script—enjoying the challenge of automating processes and solving complex problems.
+- 🌱 Originally from Utah, I recently moved to New York, and when I’m not managing systems, you’ll find me traveling and exploring the world with my partner.
+- 💞️ Being a Systems Administrator has always been my dream job, but I’m also intrigued by networking and might explore that in the future.
+- I love the broad scope of a SysAdmin role, which allows me to dive into a variety of projects rather than focus on one specific area.
